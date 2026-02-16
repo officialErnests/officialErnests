@@ -45,3 +45,6 @@ https://hackatime-badge.hackclub.com/U095T5UB8DS/de-ai-ed SHIT EMBED FAILURE.. w
 # Nothing quite screams PRO than these many projects, am i right ;))
 Also i am/ would/ was impressed if you/me/them didn't ran out of api requests by now/then/never, based on how much this page is loading/deloading/"uploading??"<br>
 Also, if youy have rewached line {47} (aka this one) May you have nice day ;DD
+## BONUS
+if you were wondering how code looks ;DD
+<img width="941" height="1123" alt="Screenshot_20260217_000900" src="https://github.com/user-attachments/assets/b37fcbe7-35b5-4ce3-9f8d-a4301dfaf121" />
